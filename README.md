@@ -1,2 +1,2 @@
 # Kky_Hilluriya_Vid
-Student Management System For Kattankudy Hilluriya Vidyalayam 
+This System Web Based Student Management System For Kattankudy Hilluriya Vidyalayam by php programming language 
