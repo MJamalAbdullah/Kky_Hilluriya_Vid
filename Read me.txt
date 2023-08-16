@@ -1,0 +1,9 @@
+Admin:
+	Un:- afm
+	Pass:- abdullah12
+
+Student:
+	Un: afm_ab
+	Pass: 0123456789
+
+Database Name : dbscldraft
